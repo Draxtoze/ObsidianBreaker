@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Obsidian Breaker BP",
+		"description": "Obsidian Breaker Addon for Minecraft Bedrock - Made by Draxtoze",
+		"uuid": "6cce63c1-7f20-479d-a99e-af0009557425",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8c5c3bd0-4d2c-45ca-83ab-777d73246055",
+			"version": [1, 0, 0]
+		}
+	]
+}
